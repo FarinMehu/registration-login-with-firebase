@@ -1,0 +1,14 @@
+.full_container{
+    border: 2px solid lightslategray;
+    border-radius: 5px;
+    width: 60%;
+    height: 400px;
+    margin: 8rem 16rem;
+  }
+  .login{
+    width: 50%;
+    border-right: 1px solid gray;
+  }
+  .registration{
+    width: 50%;
+  }
